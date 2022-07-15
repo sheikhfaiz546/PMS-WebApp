@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.d0ff505e.css",
-    "main.js": "http://localhost:3000/static/js/main.74949b7a.js",
-    "static/js/787.9ef03bb6.chunk.js": "http://localhost:3000/static/js/787.9ef03bb6.chunk.js",
-    "index.html": "http://localhost:3000/index.html",
-    "main.d0ff505e.css.map": "http://localhost:3000/static/css/main.d0ff505e.css.map",
-    "main.74949b7a.js.map": "http://localhost:3000/static/js/main.74949b7a.js.map",
-    "787.9ef03bb6.chunk.js.map": "http://localhost:3000/static/js/787.9ef03bb6.chunk.js.map"
+    "main.css": "https://sheikhfaiz546.github.io/PMS-WebApp/static/css/main.d0ff505e.css",
+    "main.js": "https://sheikhfaiz546.github.io/PMS-WebApp/static/js/main.dfc45ae9.js",
+    "static/js/787.9ef03bb6.chunk.js": "https://sheikhfaiz546.github.io/PMS-WebApp/static/js/787.9ef03bb6.chunk.js",
+    "index.html": "https://sheikhfaiz546.github.io/PMS-WebApp/index.html",
+    "main.d0ff505e.css.map": "https://sheikhfaiz546.github.io/PMS-WebApp/static/css/main.d0ff505e.css.map",
+    "main.dfc45ae9.js.map": "https://sheikhfaiz546.github.io/PMS-WebApp/static/js/main.dfc45ae9.js.map",
+    "787.9ef03bb6.chunk.js.map": "https://sheikhfaiz546.github.io/PMS-WebApp/static/js/787.9ef03bb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0ff505e.css",
-    "static/js/main.74949b7a.js"
+    "static/js/main.dfc45ae9.js"
   ]
 }
